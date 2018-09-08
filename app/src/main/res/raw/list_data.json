@@ -1,0 +1,194 @@
+[
+  {
+    "country" : "Algeria",
+    "continent": "Africa",
+    "cups_won": 0,
+    "image" : "algeria"
+  },
+  {
+    "country" : "Argentina",
+    "continent": "South America",
+    "cups_won": 2,
+    "image" : "argentina"
+  },
+  {
+    "country" : "Australia",
+    "continent": "Oceania",
+    "cups_won": 0,
+    "image" : "australia"
+  },
+  {
+    "country" : "Brazil",
+    "continent": "South America",
+    "cups_won": 5,
+    "image" : "brazil"
+  },
+  {
+    "country" : "Cameroon",
+    "continent": "Africa",
+    "cups_won": 0,
+    "image" : "cameroon"
+  },
+  {
+    "country" : "Chile",
+    "continent": "South America",
+    "cups_won": 0,
+    "image" : "chile"
+  },
+  {
+    "country" : "Cote d’Ivoire",
+    "continent": "Africa",
+    "cups_won": 0,
+    "image" : "cote_d_lvoire"
+  },
+  {
+    "country" : "Denmark",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "denmark"
+  },
+  {
+    "country" : "England",
+    "continent": "Europe",
+    "cups_won": 1,
+    "image" : "england"
+  },
+  {
+    "country" : "France",
+    "continent": "Europe",
+    "cups_won": 1,
+    "image" : "france"
+  },
+  {
+    "country" : "Germany",
+    "continent": "Europe",
+    "cups_won": 4,
+    "image" : "germany"
+  },
+  {
+    "country" : "Ghana",
+    "continent": "Africa",
+    "cups_won": 0,
+    "image" : "ghana"
+  },
+  {
+    "country" : "Greece",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "greece"
+  },
+  {
+    "country" : "Honduras",
+    "continent": "Central America",
+    "cups_won": 0,
+    "image" : "honduras"
+  },
+  {
+    "country" : "Italy",
+    "continent": "Europe",
+    "cups_won": 4,
+    "image" : "italy"
+  },
+  {
+    "country" : "Japan",
+    "continent": "Asia",
+    "cups_won": 0,
+    "image" : "japan"
+  },
+  {
+    "country" : "Mexico",
+    "continent": "North America",
+    "cups_won": 0,
+    "image" : "mexico"
+  },
+  {
+    "country" : "Netherlands",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "netherlands"
+  },
+  {
+    "country" : "New Zealand",
+    "continent": "Oceania",
+    "cups_won": 0,
+    "image" : "new_zealand"
+  },
+  {
+    "country" : "Nigeria",
+    "continent": "Africa",
+    "cups_won": 0,
+    "image" : "nigeria"
+  },
+  {
+    "country" : "North Korea",
+    "continent": "Asia",
+    "cups_won": 0,
+    "image" : "north_korea"
+  },
+  {
+    "country" : "Paraguay",
+    "continent": "South America",
+    "cups_won": 0,
+    "image" : "paraguay"
+  },
+  {
+    "country" : "Portugal",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "portugal"
+  },
+  {
+    "country" : "Serbia",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "serbia"
+  },
+  {
+    "country" : "Slovakia",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "slovakia"
+  },
+  {
+    "country" : "Slovenia",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "slovenia"
+  },
+  {
+    "country" : "South Africa",
+    "continent": "Africa",
+    "cups_won": 0,
+    "image" : "south_africa"
+  },
+  {
+    "country" : "South Korea",
+    "continent": "Asia",
+    "cups_won": 0,
+    "image" : "south_korea"
+  },
+  {
+    "country" : "Spain",
+    "continent": "Europe",
+    "cups_won": 1,
+    "image" : "spain"
+  },
+  {
+    "country" : "Switzerland",
+    "continent": "Europe",
+    "cups_won": 0,
+    "image" : "switzerland"
+  },
+  {
+    "country" : "United States",
+    "continent": "North America",
+    "cups_won": 0,
+    "image" : "united_states"
+  },
+  {
+    "country" : "Uruguay",
+    "continent": "South America",
+    "cups_won": 2,
+    "image" : "uruguay"
+  }
+]
